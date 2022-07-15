@@ -1,2 +1,1 @@
-# Build01
-# 2020mobile
+# Ecommerce miniproject for Alexey
